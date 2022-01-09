@@ -1,0 +1,663 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`match snapshot 1`] = `
+<div>
+  <div
+    class="App"
+  >
+    <button>
+      Show Favorites
+    </button>
+    <div
+      class="Test"
+    >
+      <img
+        alt="img capa manga"
+        src="https://cdn.myanimelist.net/images/manga/1/157897.jpg?s=f03b5f8bfeb0b0962b7d5e7cb9a8d0d3"
+      />
+      Berserk
+      <button>
+         
+         Favoritar
+      </button>
+    </div>
+    <div
+      class="Test"
+    >
+      <img
+        alt="img capa manga"
+        src="https://cdn.myanimelist.net/images/manga/3/179882.jpg?s=dac8109140406ca296cf4946296b5037"
+      />
+      JoJo no Kimyou na Bouken Part 7: Steel Ball Run
+      <button>
+         
+         Favoritar
+      </button>
+    </div>
+    <div
+      class="Test"
+    >
+      <img
+        alt="img capa manga"
+        src="https://cdn.myanimelist.net/images/manga/2/253146.jpg?s=e5286481ed2b4c11ab39d1420110dc43"
+      />
+      One Piece
+      <button>
+         
+         Favoritar
+      </button>
+    </div>
+    <div
+      class="Test"
+    >
+      <img
+        alt="img capa manga"
+        src="https://cdn.myanimelist.net/images/manga/2/181787.jpg?s=bbd3ff81b5d8e50781531c60cd68773f"
+      />
+      Vagabond
+      <button>
+         
+         Favoritar
+      </button>
+    </div>
+    <div
+      class="Test"
+    >
+      <img
+        alt="img capa manga"
+        src="https://cdn.myanimelist.net/images/manga/3/54525.jpg?s=c660994ac8ba790d9e6bb2400f7c73cd"
+      />
+      Monster
+      <button>
+         
+         Favoritar
+      </button>
+    </div>
+    <div
+      class="Test"
+    >
+      <img
+        alt="img capa manga"
+        src="https://cdn.myanimelist.net/images/manga/3/243675.jpg?s=8cb0a643f8a7597514447f2dd0e4ffc2"
+      />
+      Fullmetal Alchemist
+      <button>
+         
+         Favoritar
+      </button>
+    </div>
+    <div
+      class="Test"
+    >
+      <img
+        alt="img capa manga"
+        src="https://cdn.myanimelist.net/images/manga/3/164420.jpg?s=76cffa4b8fdbfedb7a554a5a5695a47a"
+      />
+      Oyasumi Punpun
+      <button>
+         
+         Favoritar
+      </button>
+    </div>
+    <div
+      class="Test"
+    >
+      <img
+        alt="img capa manga"
+        src="https://cdn.myanimelist.net/images/manga/2/166124.jpg?s=3a3e1279dd192ea90a32ff6bdfdbe4dc"
+      />
+      Grand Blue
+      <button>
+         
+         Favoritar
+      </button>
+    </div>
+    <div
+      class="Test"
+    >
+      <img
+        alt="img capa manga"
+        src="https://cdn.myanimelist.net/images/manga/2/157904.jpg?s=c8477fd874de514caeb368880ec9e1db"
+      />
+      Slam Dunk
+      <button>
+         
+         Favoritar
+      </button>
+    </div>
+    <div
+      class="Test"
+    >
+      <img
+        alt="img capa manga"
+        src="https://cdn.myanimelist.net/images/manga/2/171872.jpg?s=21a45c6d977c58c19e3075b015c4ee39"
+      />
+      Kingdom
+      <button>
+         
+         Favoritar
+      </button>
+    </div>
+    <div
+      class="Test"
+    >
+      <img
+        alt="img capa manga"
+        src="https://cdn.myanimelist.net/images/manga/2/188925.jpg?s=18b1d30b74bf96b476068901f579e408"
+      />
+      Vinland Saga
+      <button>
+         
+         Favoritar
+      </button>
+    </div>
+    <div
+      class="Test"
+    >
+      <img
+        alt="img capa manga"
+        src="https://cdn.myanimelist.net/images/manga/5/173535.jpg?s=b3742ac411067d352b351824b11b5836"
+      />
+      Monogatari Series: First Season
+      <button>
+         
+         Favoritar
+      </button>
+    </div>
+    <div
+      class="Test"
+    >
+      <img
+        alt="img capa manga"
+        src="https://cdn.myanimelist.net/images/manga/1/54437.jpg?s=2dfac509e795f7cc672f1b4c4930bf92"
+      />
+      20th Century Boys
+      <button>
+         
+         Favoritar
+      </button>
+    </div>
+    <div
+      class="Test"
+    >
+      <img
+        alt="img capa manga"
+        src="https://cdn.myanimelist.net/images/manga/4/75029.jpg?s=9888e364738fc189aab5408ebeb63435"
+      />
+      Ashita no Joe
+      <button>
+         
+         Favoritar
+      </button>
+    </div>
+    <div
+      class="Test"
+    >
+      <img
+        alt="img capa manga"
+        src="https://cdn.myanimelist.net/images/manga/3/188896.jpg?s=107a5af07f0e6992faa286f94596f231"
+      />
+      Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen
+      <button>
+         
+         Favoritar
+      </button>
+    </div>
+    <div
+      class="Test"
+    >
+      <img
+        alt="img capa manga"
+        src="https://cdn.myanimelist.net/images/manga/1/52281.jpg?s=de71b0293b835f698d65143d9bf14cee"
+      />
+      3-gatsu no Lion
+      <button>
+         
+         Favoritar
+      </button>
+    </div>
+    <div
+      class="Test"
+    >
+      <img
+        alt="img capa manga"
+        src="https://cdn.myanimelist.net/images/manga/1/115443.jpg?s=9795cb8739785d402a60e5aade4ddf3b"
+      />
+      Houseki no Kuni
+      <button>
+         
+         Favoritar
+      </button>
+    </div>
+    <div
+      class="Test"
+    >
+      <img
+        alt="img capa manga"
+        src="https://cdn.myanimelist.net/images/manga/2/181553.jpg?s=f27f4bdebd5a5d90996112eda295cf1b"
+      />
+      Monogatari Series: Second Season
+      <button>
+         
+         Favoritar
+      </button>
+    </div>
+    <div
+      class="Test"
+    >
+      <img
+        alt="img capa manga"
+        src="https://cdn.myanimelist.net/images/manga/2/172982.jpg?s=12df0730d20b4e6c9294bf8293feb5ee"
+      />
+      GTO
+      <button>
+         
+         Favoritar
+      </button>
+    </div>
+    <div
+      class="Test"
+    >
+      <img
+        alt="img capa manga"
+        src="https://cdn.myanimelist.net/images/manga/3/235363.jpg?s=c149025727da0c0cb037d23e25677c92"
+      />
+      Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e: 2-nensei-hen
+      <button>
+         
+         Favoritar
+      </button>
+    </div>
+    <div
+      class="Test"
+    >
+      <img
+        alt="img capa manga"
+        src="https://cdn.myanimelist.net/images/manga/3/57369.jpg?s=04002980dcd4cfd0fb15e3bb9597d934"
+      />
+      Yotsuba to!
+      <button>
+         
+         Favoritar
+      </button>
+    </div>
+    <div
+      class="Test"
+    >
+      <img
+        alt="img capa manga"
+        src="https://cdn.myanimelist.net/images/manga/2/177958.jpg?s=53f4b8f50c92e541bdd3e1d662e9b3eb"
+      />
+      Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e
+      <button>
+         
+         Favoritar
+      </button>
+    </div>
+    <div
+      class="Test"
+    >
+      <img
+        alt="img capa manga"
+        src="https://cdn.myanimelist.net/images/manga/1/120529.jpg?s=7d7fdc308409589ca579b5a9376effd9"
+      />
+      Koe no Katachi
+      <button>
+         
+         Favoritar
+      </button>
+    </div>
+    <div
+      class="Test"
+    >
+      <img
+        alt="img capa manga"
+        src="https://cdn.myanimelist.net/images/manga/2/153860.jpg?s=3981f0bee3695e1a75744764f8d1b257"
+      />
+      Ookami to Koushinryou
+      <button>
+         
+         Favoritar
+      </button>
+    </div>
+    <div
+      class="Test"
+    >
+      <img
+        alt="img capa manga"
+        src="https://cdn.myanimelist.net/images/manga/2/115969.jpg?s=5a4f02899c76aa4e575a7e877b20b4d8"
+      />
+      Real
+      <button>
+         
+         Favoritar
+      </button>
+    </div>
+    <div
+      class="Test"
+    >
+      <img
+        alt="img capa manga"
+        src="https://cdn.myanimelist.net/images/manga/4/89519.jpg?s=ad82f09ca07db963223d9c5d025454f3"
+      />
+      Haikyuu!!
+      <button>
+         
+         Favoritar
+      </button>
+    </div>
+    <div
+      class="Test"
+    >
+      <img
+        alt="img capa manga"
+        src="https://cdn.myanimelist.net/images/manga/3/153249.jpg?s=09f517be8d9e7cbfe8dc98db44ad10a8"
+      />
+      Akatsuki no Yona
+      <button>
+         
+         Favoritar
+      </button>
+    </div>
+    <div
+      class="Test"
+    >
+      <img
+        alt="img capa manga"
+        src="https://cdn.myanimelist.net/images/manga/1/181554.jpg?s=bbd4d7cf1d64d06cfec15220f9c39540"
+      />
+      Monogatari Series: Final Season
+      <button>
+         
+         Favoritar
+      </button>
+    </div>
+    <div
+      class="Test"
+    >
+      <img
+        alt="img capa manga"
+        src="https://cdn.myanimelist.net/images/manga/3/156624.jpg?s=237768196e315e268bbf5709d52af55c"
+      />
+      Kaze no Tani no Nausicaä
+      <button>
+         
+         Favoritar
+      </button>
+    </div>
+    <div
+      class="Test"
+    >
+      <img
+        alt="img capa manga"
+        src="https://cdn.myanimelist.net/images/manga/1/122461.jpg?s=e2c4751d530c14cf510a1e8f4ce69e39"
+      />
+      Yahari Ore no Seishun Love Comedy wa Machigatteiru.
+      <button>
+         
+         Favoritar
+      </button>
+    </div>
+    <div
+      class="Test"
+    >
+      <img
+        alt="img capa manga"
+        src="https://cdn.myanimelist.net/images/manga/3/161645.jpg?s=58beeec91ad4532699a2b1da3c4d4cda"
+      />
+      Made in Abyss
+      <button>
+         
+         Favoritar
+      </button>
+    </div>
+    <div
+      class="Test"
+    >
+      <img
+        alt="img capa manga"
+        src="https://cdn.myanimelist.net/images/manga/3/222295.jpg?s=b3abea95ceaccea8adf223bd0e4047b6"
+      />
+      Solo Leveling
+      <button>
+         
+         Favoritar
+      </button>
+    </div>
+    <div
+      class="Test"
+    >
+      <img
+        alt="img capa manga"
+        src="https://cdn.myanimelist.net/images/manga/3/166256.jpg?s=1d3e9084ba8828ce8938ad1d5777febf"
+      />
+      Uchuu Kyoudai
+      <button>
+         
+         Favoritar
+      </button>
+    </div>
+    <div
+      class="Test"
+    >
+      <img
+        alt="img capa manga"
+        src="https://cdn.myanimelist.net/images/manga/1/129447.jpg?s=59022093f8f6937a00b6dc9c9f668c00"
+      />
+      Re:Zero kara Hajimeru Isekai Seikatsu
+      <button>
+         
+         Favoritar
+      </button>
+    </div>
+    <div
+      class="Test"
+    >
+      <img
+        alt="img capa manga"
+        src="https://cdn.myanimelist.net/images/manga/3/197880.jpg?s=836e55af7bfc57ed77d1e9cc553aa999"
+      />
+      Jumyou wo Kaitotte Moratta. Ichinen ni Tsuki, Ichimanen de.
+      <button>
+         
+         Favoritar
+      </button>
+    </div>
+    <div
+      class="Test"
+    >
+      <img
+        alt="img capa manga"
+        src="https://cdn.myanimelist.net/images/manga/2/175662.jpg?s=b9b22bf0e733997a1325b6461032eeac"
+      />
+      Utsuro no Hako to Zero no Maria
+      <button>
+         
+         Favoritar
+      </button>
+    </div>
+    <div
+      class="Test"
+    >
+      <img
+        alt="img capa manga"
+        src="https://cdn.myanimelist.net/images/manga/3/206205.jpg?s=96c2a8b6097d3d142c66342609fe919c"
+      />
+      Umineko no Naku Koro ni Chiru - Episode 8: Twilight of the Golden Witch
+      <button>
+         
+         Favoritar
+      </button>
+    </div>
+    <div
+      class="Test"
+    >
+      <img
+        alt="img capa manga"
+        src="https://cdn.myanimelist.net/images/manga/2/159514.jpg?s=83c655376f84797c601792fa52e094ea"
+      />
+      Mushishi
+      <button>
+         
+         Favoritar
+      </button>
+    </div>
+    <div
+      class="Test"
+    >
+      <img
+        alt="img capa manga"
+        src="https://cdn.myanimelist.net/images/manga/1/229331.jpg?s=c0ea9fd43c57983166e994940f50b441"
+      />
+      The Horizon
+      <button>
+         
+         Favoritar
+      </button>
+    </div>
+    <div
+      class="Test"
+    >
+      <img
+        alt="img capa manga"
+        src="https://cdn.myanimelist.net/images/manga/1/163191.jpg?s=0f2e6fea0853b7ca2608c6ec213727d1"
+      />
+      Nana
+      <button>
+         
+         Favoritar
+      </button>
+    </div>
+    <div
+      class="Test"
+    >
+      <img
+        alt="img capa manga"
+        src="https://cdn.myanimelist.net/images/manga/2/204827.jpg?s=59b5a5078655a52434668caf6ec83bfb"
+      />
+      Blue Period
+      <button>
+         
+         Favoritar
+      </button>
+    </div>
+    <div
+      class="Test"
+    >
+      <img
+        alt="img capa manga"
+        src="https://cdn.myanimelist.net/images/manga/1/171813.jpg?s=f4183bcb27637b1d000a8797d63332a9"
+      />
+      Yokohama Kaidashi Kikou
+      <button>
+         
+         Favoritar
+      </button>
+    </div>
+    <div
+      class="Test"
+    >
+      <img
+        alt="img capa manga"
+        src="https://cdn.myanimelist.net/images/manga/3/80661.jpg?s=3eb9cd0c329dacd00f6c318ee0f5945f"
+      />
+      One Punch-Man
+      <button>
+         
+         Favoritar
+      </button>
+    </div>
+    <div
+      class="Test"
+    >
+      <img
+        alt="img capa manga"
+        src="https://cdn.myanimelist.net/images/manga/2/54453.jpg?s=64e676c2d2ea8370b400a0503db2bc46"
+      />
+      Death Note
+      <button>
+         
+         Favoritar
+      </button>
+    </div>
+    <div
+      class="Test"
+    >
+      <img
+        alt="img capa manga"
+        src="https://cdn.myanimelist.net/images/manga/4/154023.jpg?s=2507c4a239ca800e10e4427b0e60351b"
+      />
+      Natsume Yuujinchou
+      <button>
+         
+         Favoritar
+      </button>
+    </div>
+    <div
+      class="Test"
+    >
+      <img
+        alt="img capa manga"
+        src="https://cdn.myanimelist.net/images/manga/3/194315.jpg?s=3844c469c8f810b8f496b0beddcfaf5c"
+      />
+      86
+      <button>
+         
+         Favoritar
+      </button>
+    </div>
+    <div
+      class="Test"
+    >
+      <img
+        alt="img capa manga"
+        src="https://cdn.myanimelist.net/images/manga/2/157929.jpg?s=721c68c609abd2587e8dae8eeed7e65c"
+      />
+      Akira
+      <button>
+         
+         Favoritar
+      </button>
+    </div>
+    <div
+      class="Test"
+    >
+      <img
+        alt="img capa manga"
+        src="https://cdn.myanimelist.net/images/manga/3/216464.jpg?s=be8b827c88ca462abed2d034b1a98dae"
+      />
+      Chainsaw Man
+      <button>
+         
+         Favoritar
+      </button>
+    </div>
+    <div
+      class="Test"
+    >
+      <img
+        alt="img capa manga"
+        src="https://cdn.myanimelist.net/images/manga/3/120337.jpg?s=bac74eab7cfacca199e1674799dfe095"
+      />
+      Mushoku Tensei: Isekai Ittara Honki Dasu
+      <button>
+         
+         Favoritar
+      </button>
+    </div>
+    <div
+      class="Test"
+    >
+      <img
+        alt="img capa manga"
+        src="https://cdn.myanimelist.net/images/manga/2/253119.jpg?s=f9d25027f52ceb3d4f127ab96c3e0e5e"
+      />
+      Hunter x Hunter
+      <button>
+         
+         Favoritar
+      </button>
+    </div>
+  </div>
+</div>
+`;
