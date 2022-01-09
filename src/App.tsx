@@ -21,7 +21,7 @@ function App() {
         )
         .map((manga) => (
           <div className='Test' key={`Manga-${manga.mal_id}`}>
-            <img src={manga.image_url} />
+            <img src={manga.image_url} alt='img capa manga' />
             {manga.title}
             <button onClick={() => favoritateManga(manga.mal_id)}>
               {favorites?.includes(manga.mal_id) ? '*' : ' '} Favoritar
